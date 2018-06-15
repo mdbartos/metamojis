@@ -48,6 +48,7 @@ Metadata related to processes that acted on a data source
 | Manually rejected | 👎    |
 | Manually edited   | ✍     |
 | Manually cleaned  | 💅    |
+| Archived          | 🗄    |
 |-------------------|-------|
 
 ** Miscellaneous
