@@ -1,0 +1,60 @@
+* General data quality flags 🚩
+
+** Subjective data quality assessment
+Quality assessment based on user's judgment (e.g. manual inspection)
+
+|---------------|-------|
+| Description   | Emoji |
+|---------------|-------|
+| Good          | 😀    |
+| Probably good | 😐    |
+| Questionable  | 🤔    |
+| Bad           | 🙁    |
+|---------------|-------|
+
+** Objective data quality assessment
+Quality assessment determined by objective criteria (e.g. automated scripts)
+
+|---------------|-------|
+| Description   | Emoji |
+|---------------|-------|
+| Good          | ✅    |
+| Probably good | 🆗    |
+| Questionable  | ❓    |
+| Bad           | ❌    |
+|---------------|-------|
+
+** Data quality indicators
+Metadata indicators related to data quality
+
+|-----------------|-------|
+| Description     | Emoji |
+|-----------------|-------|
+| Missing Data    | 🔍    |
+| Duplicate Data  | 👯    |
+| Below Detection | 🔬    |
+| Above Detection | 🔭    |
+|-----------------|-------|
+
+** Processes
+Metadata related to processes that acted on a data source
+
+|-------------------|-------|
+| Description       | Emoji |
+|-------------------|-------|
+| Raw Data          | 🥩    |
+| Processed Data    | 🌭    |
+| Manually verified | 👍    |
+| Manually rejected | 👎    |
+| Manually edited   | ✍     |
+| Manually cleaned  | 💅    |
+|-------------------|-------|
+
+** Miscellaneous
+Other flags related to data quality
+
+|-------------------|-------|
+| Description       | Emoji |
+|-------------------|-------|
+| See annotation    | 💬    |
+|-------------------|-------|
