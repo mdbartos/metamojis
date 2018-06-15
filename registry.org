@@ -49,6 +49,7 @@ Metadata related to processes that acted on a data source
 | Manually edited   | ✍     |
 | Manually cleaned  | 💅    |
 | Archived          | 🗄    |
+| Compressed        | 🗜    |
 |-------------------|-------|
 
 ** Miscellaneous
@@ -60,7 +61,7 @@ Other flags related to data quality
 | See annotation    | 💬    |
 |-------------------|-------|
 
-* Data descriptors ⚖
+* Data descriptors 🏷
 
 ** Data types
 Data type (for interpretation by computer programs, etc.)
@@ -98,5 +99,8 @@ Properties described by SI base units
 | Description           | Emoji |
 |-----------------------|-------|
 | Flow rate             | 🚰    |
+| Voltage               | 🔋    |
+| Radiation             | ☢     |
+| Signal strength       | 📶    |
 |-----------------------|-------|
 
