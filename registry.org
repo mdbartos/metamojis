@@ -32,6 +32,7 @@ Metadata indicators related to data quality
 |-----------------|-------|
 | Missing Data    | 🔍    |
 | Duplicate Data  | 👯    |
+| Sensitive Data  | 🤐    |
 | Below Detection | 🔬    |
 | Above Detection | 🔭    |
 |-----------------|-------|
