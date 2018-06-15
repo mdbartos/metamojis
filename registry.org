@@ -94,10 +94,14 @@ Properties described by SI base units
 |-----------------------|-------|
 
 ** Non-SI properties
+Common properties not directly measured by SI base units
 
 |-----------------------|-------|
 | Description           | Emoji |
 |-----------------------|-------|
+| Angle                 | 📐    |
+| Coordinate            | 🌐    |
+| Volume                | 🔈    |
 | Flow rate             | 🚰    |
 | Voltage               | 🔋    |
 | Radiation             | ☢     |
