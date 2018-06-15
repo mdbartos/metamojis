@@ -60,6 +60,21 @@ Other flags related to data quality
 | See annotation    | 💬    |
 |-------------------|-------|
 
+* Data descriptors ⚖
+
+** Data types
+Data type (for interpretation by computer programs, etc.)
+
+|---------------------|-------|
+| Description         | Emoji |
+|---------------------|-------|
+| Integer             | 🔢    |
+| Floating point      | 🕴    |
+| Character (ASCII)   | 🔠    |
+| Character (Unicode) | 🔣    |
+| Video               | 🎞    |
+|---------------------|-------|
+
 * Observable properties ⚖
 
 ** SI Base properties
@@ -76,3 +91,12 @@ Properties described by SI base units
 | Luminous Intensity    | 💡    |
 | Amount of substance   | ⚗     |
 |-----------------------|-------|
+
+** Non-SI properties
+
+|-----------------------|-------|
+| Description           | Emoji |
+|-----------------------|-------|
+| Flow rate             | 🚰    |
+|-----------------------|-------|
+
