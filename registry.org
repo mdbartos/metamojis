@@ -58,3 +58,20 @@ Other flags related to data quality
 |-------------------|-------|
 | See annotation    | 💬    |
 |-------------------|-------|
+
+* Observable properties ⚖
+
+** SI Base properties
+Properties described by SI base units
+
+|-----------------------|-------|
+| Description           | Emoji |
+|-----------------------|-------|
+| Length                | 📏    |
+| Mass                  | 🏋    |
+| Time                  | ⏳    |
+| Temperature           | 🌡    |
+| Electric current      | ⚡     |
+| Luminous Intensity    | 💡    |
+| Amount of substance   | ⚗     |
+|-----------------------|-------|
