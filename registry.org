@@ -72,9 +72,10 @@ Data type (for interpretation by computer programs, etc.)
 |---------------------|-------|
 | Integer             | 🔢    |
 | Floating point      | 🕴    |
-| Character (ASCII)   | 🔠    |
-| Character (Unicode) | 🔣    |
+| Text (ASCII)        | 🔠    |
+| Text (Unicode)      | 🔣    |
 | Video               | 🎞    |
+| Categorical         | 🗂    |
 |---------------------|-------|
 
 * Observable properties ⚖
