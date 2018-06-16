@@ -38,7 +38,9 @@ Metadata indicators related to data quality
 | Below Detection | 🔬    |
 | Above Detection | 🔭    |
 | Outlier         | 🛸    |
-| Spike in data   | 🦔    |
+| Spike           | 🦔    |
+| Sensor drift    | 🎈    |
+| Frozen value    | 🍦    |
 |-----------------|-------|
 
 ** Transformative processes
@@ -48,7 +50,6 @@ Metadata related to processes that acted on a data source
 | Description       | Emoji |
 |-------------------|-------|
 | Manually edited   | ✍     |
-| Manually cleaned  | 💅    |
 |-------------------|-------|
 
 ** Non-transformative processes
@@ -81,9 +82,18 @@ Data type (for interpretation by computer programs, etc.)
 | Floating point      | 🕴    |
 | Text (ASCII)        | 🔠    |
 | Text (Unicode)      | 🔣    |
+|---------------------|-------|
+
+** Conceptual data types
+Data type (for 
+
+|---------------------|-------|
+| Description         | Emoji |
+|---------------------|-------|
 | Video               | 🎞    |
 | Categorical         | 🗂    |
 |---------------------|-------|
+
 
 * Observable properties ⚖
 
