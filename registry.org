@@ -57,7 +57,7 @@ Metadata related to processes that change the data
 |--------------------|-------|
 
 ** Non-transformative processes
-Metadata related to processes do not change the data
+Metadata related to processes that do not change the data
 
 |------------------------|-------|
 | Description            | Emoji |
