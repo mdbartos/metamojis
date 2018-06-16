@@ -1,0 +1,12 @@
+* Grouped flags
+
+Use parentheses to create logical groupings of flags
+
+** Manually flagged due to spikes in data (🤚🦔)
+** Data looks questionable, see annotation for reasoning (🤔💬)
+
+* Categorized flags
+
+Use curly braces to specify which category a flag belongs to.
+
+** Observable property, length {⚖:📏}
