@@ -32,6 +32,7 @@ Metadata indicators related to data quality
 |-----------------|-------|
 | Raw Data        | 🥩    |
 | Processed Data  | 🌭    |
+| Not finalized   | 🚧    |
 | Missing Data    | 🔍    |
 | Duplicate Data  | 👯    |
 | Sensitive Data  | 🤐    |
@@ -44,23 +45,27 @@ Metadata indicators related to data quality
 |-----------------|-------|
 
 ** Transformative processes
-Metadata related to processes that changed the data
+Metadata related to processes that change the data
 
-|-------------------|-------|
-| Description       | Emoji |
-|-------------------|-------|
-| Manually edited   | ✍     |
-|-------------------|-------|
+|--------------------|-------|
+| Description        | Emoji |
+|--------------------|-------|
+| Manually edited    | ✍     |
+| Rolling filter     | ✳     |
+| Interpolated       | 📈    |
+| Duplicates removed | 🎟    |
+|--------------------|-------|
 
 ** Non-transformative processes
-Metadata related to processes did not change the data
+Metadata related to processes do not change the data
 
-|-------------------|-------|
-| Description       | Emoji |
-|-------------------|-------|
-| Manually verified | 👍    |
-| Manually rejected | 👎    |
-|-------------------|-------|
+|------------------------|-------|
+| Description            | Emoji |
+|------------------------|-------|
+| Manually verified      | 👍    |
+| Manually rejected      | 👎    |
+| Flagged for inspection | 🤚    |
+|------------------------|-------|
 
 ** Pending actions
 Actions to be completed in the future
@@ -87,14 +92,15 @@ Other flags related to data quality
 ** Machine data types
 Data type (for interpretation by computer programs, etc.)
 
-|---------------------|-------|
-| Description         | Emoji |
-|---------------------|-------|
-| Integer             | 🔢    |
-| Floating point      | 🕴    |
-| Text (ASCII)        | 🔠    |
-| Text (Unicode)      | 🔣    |
-|---------------------|-------|
+|-----------------------|-------|
+| Description           | Emoji |
+|-----------------------|-------|
+| Integer               | 🔢    |
+| Floating point        | 🕴    |
+| String (ASCII)        | 🔠    |
+| String (Unicode)      | 🔣    |
+| Boolean               | 🔟    |
+|-----------------------|-------|
 
 ** Conceptual data types
 Data type (for interpretation by humans)
@@ -103,6 +109,8 @@ Data type (for interpretation by humans)
 | Description         | Emoji |
 |---------------------|-------|
 | Numeric             | #️⃣    |
+| Text                | 📄    |
+| Index               | 📇    |
 | Categorical         | 🗂    |
 | Video               | 🎞    |
 |---------------------|-------|
