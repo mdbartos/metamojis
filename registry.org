@@ -52,7 +52,7 @@ Metadata related to processes that change the data
 |--------------------|-------|
 | Manually edited    | ✍     |
 | Rolling filter     | ✳     |
-| Interpolated       | 📈    |
+| Interpolated       | 〽    |
 | Duplicates removed | 🎟    |
 |--------------------|-------|
 
@@ -64,7 +64,7 @@ Metadata related to processes that do not change the data
 |------------------------|-------|
 | Manually verified      | 👍    |
 | Manually rejected      | 👎    |
-| Flagged for inspection | 🤚    |
+| Manually flagged       | 🤚    |
 |------------------------|-------|
 
 ** Pending actions
@@ -76,6 +76,8 @@ Actions to be completed in the future
 | To be categorized | 🗃    |
 | To be archived    | 🗄    |
 | To be deleted     | 🗑    |
+| To be inspected   | 🛂    |
+| To be edited      | 🛃    |
 |-------------------|-------|
 
 ** Miscellaneous
@@ -112,6 +114,7 @@ Data type (for interpretation by humans)
 | Text                | 📄    |
 | Index               | 📇    |
 | Categorical         | 🗂    |
+| Audio               | 🎙    |
 | Video               | 🎞    |
 |---------------------|-------|
 
