@@ -1,4 +1,4 @@
-* General data quality flags 🚩
+* Data quality flags 🚩
 
 ** Subjective data quality assessment
 Quality assessment based on user's judgment (e.g. manual inspection)
@@ -30,6 +30,8 @@ Metadata indicators related to data quality
 |-----------------|-------|
 | Description     | Emoji |
 |-----------------|-------|
+| Raw Data        | 🥩    |
+| Processed Data  | 🌭    |
 | Missing Data    | 🔍    |
 | Duplicate Data  | 👯    |
 | Sensitive Data  | 🤐    |
@@ -43,8 +45,6 @@ Metadata related to processes that acted on a data source
 |-------------------|-------|
 | Description       | Emoji |
 |-------------------|-------|
-| Raw Data          | 🥩    |
-| Processed Data    | 🌭    |
 | Manually verified | 👍    |
 | Manually rejected | 👎    |
 | Manually edited   | ✍     |
