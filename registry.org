@@ -44,7 +44,7 @@ Metadata indicators related to data quality
 |-----------------|-------|
 
 ** Transformative processes
-Metadata related to processes that acted on a data source
+Metadata related to processes that changed the data
 
 |-------------------|-------|
 | Description       | Emoji |
@@ -53,12 +53,24 @@ Metadata related to processes that acted on a data source
 |-------------------|-------|
 
 ** Non-transformative processes
+Metadata related to processes did not change the data
 
 |-------------------|-------|
 | Description       | Emoji |
 |-------------------|-------|
 | Manually verified | 👍    |
 | Manually rejected | 👎    |
+|-------------------|-------|
+
+** Pending actions
+Actions to be completed in the future
+
+|-------------------|-------|
+| Description       | Emoji |
+|-------------------|-------|
+| To be categorized | 🗃    |
+| To be archived    | 🗄    |
+| To be deleted     | 🗑    |
 |-------------------|-------|
 
 ** Miscellaneous
@@ -85,13 +97,14 @@ Data type (for interpretation by computer programs, etc.)
 |---------------------|-------|
 
 ** Conceptual data types
-Data type (for 
+Data type (for interpretation by humans)
 
 |---------------------|-------|
 | Description         | Emoji |
 |---------------------|-------|
-| Video               | 🎞    |
+| Numeric             | #️⃣    |
 | Categorical         | 🗂    |
+| Video               | 🎞    |
 |---------------------|-------|
 
 
