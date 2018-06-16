@@ -37,20 +37,27 @@ Metadata indicators related to data quality
 | Sensitive Data  | 🤐    |
 | Below Detection | 🔬    |
 | Above Detection | 🔭    |
+| Outlier         | 🛸    |
+| Spike in data   | 🦔    |
 |-----------------|-------|
 
-** Processes
+** Transformative processes
 Metadata related to processes that acted on a data source
+
+|-------------------|-------|
+| Description       | Emoji |
+|-------------------|-------|
+| Manually edited   | ✍     |
+| Manually cleaned  | 💅    |
+|-------------------|-------|
+
+** Non-transformative processes
 
 |-------------------|-------|
 | Description       | Emoji |
 |-------------------|-------|
 | Manually verified | 👍    |
 | Manually rejected | 👎    |
-| Manually edited   | ✍     |
-| Manually cleaned  | 💅    |
-| Archived          | 🗄    |
-| Compressed        | 🗜    |
 |-------------------|-------|
 
 ** Miscellaneous
@@ -64,7 +71,7 @@ Other flags related to data quality
 
 * Data descriptors 🏷
 
-** Data types
+** Machine data types
 Data type (for interpretation by computer programs, etc.)
 
 |---------------------|-------|
