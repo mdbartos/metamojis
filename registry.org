@@ -42,6 +42,7 @@ Metadata indicators related to data quality
 | Spike              | 🦔    |
 | Sensor drift       | 🎈    |
 | Frozen value       | 🍦    |
+| Impossible value   | 🦄    |
 |--------------------|-------|
 
 ** Transformative processes
@@ -79,14 +80,15 @@ Actions to be completed in the future
 | To be edited      | 🛃    |
 |-------------------|-------|
 
-** Miscellaneous
-Other flags related to data quality
+** Modifiers
+Flags to qualify or expand upon other flags
 
-|-------------------|-------|
-| Description       | Emoji |
-|-------------------|-------|
-| See annotation    | 💬    |
-|-------------------|-------|
+|----------------------------------|-------|
+| Description                      | Emoji |
+|----------------------------------|-------|
+| See annotation                   | 💬    |
+| Uncertainty about classification | 🤷    |
+|----------------------------------|-------|
 
 * Data descriptors 🏷
 
