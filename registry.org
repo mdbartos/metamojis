@@ -27,22 +27,22 @@ Quality assessment determined by objective criteria (e.g. automated scripts)
 ** Data quality indicators
 Metadata indicators related to data quality
 
-|-----------------|-------|
-| Description     | Emoji |
-|-----------------|-------|
-| Raw Data        | 🥩    |
-| Processed Data  | 🌭    |
-| Not finalized   | 🚧    |
-| Missing Data    | 🔍    |
-| Duplicate Data  | 👯    |
-| Sensitive Data  | 🤐    |
-| Below Detection | 🔬    |
-| Above Detection | 🔭    |
-| Outlier         | 🛸    |
-| Spike           | 🦔    |
-| Sensor drift    | 🎈    |
-| Frozen value    | 🍦    |
-|-----------------|-------|
+|--------------------|-------|
+| Description        | Emoji |
+|--------------------|-------|
+| Raw Data           | 🥩    |
+| Processed Data     | 🌭    |
+| No Quality Control | 🚧    |
+| Missing Data       | 🔍    |
+| Duplicate Data     | 👯    |
+| Sensitive Data     | 🤐    |
+| Below Detection    | 🔬    |
+| Above Detection    | 🔭    |
+| Outlier            | 🛸    |
+| Spike              | 🦔    |
+| Sensor drift       | 🎈    |
+| Frozen value       | 🍦    |
+|--------------------|-------|
 
 ** Transformative processes
 Metadata related to processes that change the data
