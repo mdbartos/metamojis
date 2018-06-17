@@ -53,7 +53,6 @@ Metadata related to processes that change the data
 | Manually edited    | ✍     |
 | Rolling filter     | ✳     |
 | Interpolated       | 〽    |
-| Duplicates removed | 🎟    |
 |--------------------|-------|
 
 ** Non-transformative processes
