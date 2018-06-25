@@ -122,6 +122,16 @@ Data type (for interpretation by humans)
 
 * Observable properties ⚖
 
+** Events
+Events occurring in the dataset
+
+|-----------------------|-------|
+| Description           | Emoji |
+|-----------------------|-------|
+| Event start           | 🔫    |
+| Event end             | 🏁    |
+|-----------------------|-------|
+
 ** SI Base properties
 Properties described by SI base units
 
